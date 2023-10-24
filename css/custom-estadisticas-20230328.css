@@ -1,0 +1,45 @@
+.google-visualization-table-table{
+  width: 100%;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: 16px
+
+}
+
+.google-visualization-table-table tr {
+    background-color: #fff;
+    border-top: 1px solid #bbb;
+}
+
+.google-visualization-table-table tr:nth-child(2n) {
+    background-color: #f8f8f8;
+}
+
+.google-visualization-table-table th{
+
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: left;
+    vertical-align: bottom;
+    background: #eee;
+  background-image: none;
+
+  }
+
+.google-visualization-table-table th, .google-visualization-table-table td{
+
+    padding: 10px 16px;
+    vertical-align: top;
+    border: 1px solid #ddd;
+
+}
+
+
+
+th.google-visualization-table-th.gradient.unsorted {
+
+  background-image: none
+  
+}
