@@ -68,9 +68,9 @@ Esta solución cuenta con las plantillas de diseño del front-end del catálogo 
 
 |     Color             | Hex |
 | -------------------   | ----  |
-|      Negro             | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-|      Blanco             |![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF|
-|      Bermellón             |![#CD2334](https://via.placeholder.com/10/CD2334?text=+) #CD2334|
+|      Negro            | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+|      Blanco           |![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+|      Bermellón        |![#CD2334](https://via.placeholder.com/10/CD2334?text=+) #CD2334 |
 
 
 ## Como empezar
