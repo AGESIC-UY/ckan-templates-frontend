@@ -19,29 +19,19 @@
 <!-- Table of Contents -->
 # Tabla de contenido
 - [Sobre el repositorio](#sobre-el-repositorio)
-  * [Capturas de pantalla](#capturas-de-pantalla)
   * [Tecnologías](#tecnologías)
   * [Características](#características)
   * [Referencia de colores](#referencia-de-colores)
-- [Como empezar](#como-empezar)
   * [Prerrequisitos](#prerrequisitos)
   * [Instalación](#instalación)
-  * [Pruebas de ejecución](#pruebas-de-ejecución)
   * [Despliegue](#despliegue)
-  * [Variables de entorno](#variables-de-entorno)
-- [Uso](#uso)
-- [Hoja de ruta](#hoja-de-ruta)
-- [Código de conducta](#código-de-conducta)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
-- [Reconocimientos](#reconocimientos)
+  * [Uso](#uso)
+  * [Contacto](#contacto)
+
  
 ## Sobre el repositorio
 
 Esta solución cuenta con las plantillas de diseño del front-end del catálogo de datos CKAN. Contiene estilos de componentes, fuentes y paleta de colores 
-
-### Capturas de pantalla
 
 ### Tecnologías
 
@@ -51,101 +41,37 @@ Esta solución cuenta con las plantillas de diseño del front-end del catálogo 
     <li><a href="https://www.php.net/">PHP</a></li>
     <li><a href="https://www.javascript.com/">Javascript</a></li>
     <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
-       
-    
   </ul>
 </details>
 
 ### Características
 
-- Característica 1
-- Característica 2
-- Característics 3
+- Interfaz de usuario intuitiva y amigable.
+- Cabezal con foco en la búsqueda de datos.
+- Listado de resultados, con resumen de datos.
+- Ficha de consjutno de datos y aperturas de los distintos metadatos.
+- Filtros para refinar resultados.
+- Visualización de datos en tablas y gráficos.
+
 
 ### Referencia de colores
 
+En el archivo /paleta-de-colores-web.pdf se definen las distitnas opciones para trabajar con una amplia paleta de colores en los visualizadores de datos cuantitativos, tablas, gráficos, barras, etc. 
 
-
-|     Color             | Hex |
-| -------------------   | ----  |
-|      Negro            | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-|      Blanco           |![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-|      Bermellón        |![#CD2334](https://via.placeholder.com/10/CD2334?text=+) #CD2334 |
-
-
-## Como empezar
-
-### Prerrequisitos
-Para este proyecto se debe contar con la plataforma CKAN instalada
 ### Instalación
 
 Clonar el proyecto
 ```bash
  https://github.com/AGESIC-UY/ckan-templates-frontend
 ```
-Ir al directorio
-```bash
-  
-```
-Instalar librerías
-```bash
-  
-```
-Iniciar el servicio
-
-```bash
-   
-```
-### Pruebas de ejecución
-Para ejecutar las pruebas de ejecucion ejecuta el siguiente archivo:
-
-```bash
- 
-```
 
 ### Despliegue
 
-```bash
-
-```
-### Variables de entorno
-
-Para ejecutar este repositorio, necesitas las siguientes variables 
-
+Abrir el archivo index.php en un navegador web para visualizar y navegar por la lista de formatos disponibles.
 
 ## Uso
 
-Utilice este espacio para contar un poco más sobre su proyecto y cómo se puede utilizar. Muestre capturas de pantalla adicionales, ejemplos de código, demostraciones o enlace a otros recursos.
+Se espera que el código de este repositorio funcione como referencia para la implamentación de soluciones de Ckan que contemplen los lineamientos de Agesic para el diesño de interacción, usabilidad y accesibilidad; así como el apego a las pautas de la W3C y las buenas prácticas del diseño de UX tantao para las interfaces de usuario como las de backend de administración de la plataforma.
 
-```python
-
-```
-
-## Hoja de ruta
-
-* [x] To Do 1
-* [ ] To Do 2
-* [ ] To Do 3
-
-## Código de conducta
-
-Por favor lea el [Código de conducta](url)
-
-## Preguntas frecuentes
-
-- Pregunta 1
-
-  + Respuesta 1
-
-- Pregunta 2
-
-  + Respuesta 2
-
-## Licencia
-Distribuido bajo No License. Ver LICENSE.txt para más información.
 ## Contacto
-Nombre - [@Twitter](https://twitter.com/) - email@email.com
-
-## Reconocimientos
-
-Esta seccion se pude utilizar para mencionar los recursos y librerias utilizadas.
+Rossana Gienochio <rossana.gienochio@agesic.gub.uy>
