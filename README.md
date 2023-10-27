@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://centrodeconocimiento.agesic.gub.uy/o/agesic-cci-theme-nuevo/images/logo_presidencia.png" alt="logo" width="200" height="auto" /></br>
     <img src="https://centrodeconocimiento.agesic.gub.uy/o/agesic-cci-theme-nuevo/images/logo-agesic.svg" alt="logo" width="200" height="auto" />
-    <h1>Plantilla README.md</h1>
+    <h1>README.md</h1>
     <p>
     Esta solución cuenta con las plantillas de diseño del front-end del catálogo de datos CKAN. Contiene estilos de componentes, fuentes y paleta de colores. 
     </p>
