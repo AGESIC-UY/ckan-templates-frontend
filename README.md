@@ -56,7 +56,7 @@ Esta solución cuenta con las plantillas de diseño del front-end del catálogo 
 
 ### Referencia de colores
 
-En el archivo /paleta-de-colores-web.pdf se definen las distitnas opciones para trabajar con una amplia paleta de colores en los visualizadores de datos cuantitativos, tablas, gráficos, barras, etc. 
+En el archivo /paleta-de-colores-web.pdf se definen las distintas opciones para trabajar con una amplia paleta de colores en los visualizadores de datos cuantitativos, tablas, gráficos, barras, etc. 
 
 ### Instalación
 
@@ -71,7 +71,7 @@ Abrir el archivo index.php en un navegador web para visualizar y navegar por la 
 
 ## Uso
 
-Se espera que el código de este repositorio funcione como referencia para la implamentación de soluciones de Ckan que contemplen los lineamientos de Agesic para el diesño de interacción, usabilidad y accesibilidad; así como el apego a las pautas de la W3C y las buenas prácticas del diseño de UX tantao para las interfaces de usuario como las de backend de administración de la plataforma.
+Se espera que el código de este repositorio funcione como referencia para la implamentación de soluciones de Ckan que contemplen los lineamientos de Agesic para el diesño de interacción, usabilidad y accesibilidad; así como el apego a las pautas de la W3C y las buenas prácticas del diseño de UX tanto para las interfaces de usuario como las de backend de administración de la plataforma.
 
 ## Contacto
 Rossana Gienochio <rossana.gienochio@agesic.gub.uy>
